@@ -1,0 +1,6 @@
+/Users/mkraitman/eclipse-workspace/client-redis-ejemplo/src/main/java/redis/client/model/Employees.java
+/Users/mkraitman/eclipse-workspace/client-redis-ejemplo/src/main/java/redis/client/rest/controller/JedisClientController.java
+/Users/mkraitman/eclipse-workspace/client-redis-ejemplo/src/main/java/redis/client/model/Employee.java
+/Users/mkraitman/eclipse-workspace/client-redis-ejemplo/src/main/java/redis/client/jedis/connection/JedisConnection.java
+/Users/mkraitman/eclipse-workspace/client-redis-ejemplo/src/main/java/redis/client/jedis/connection/Pool.java
+/Users/mkraitman/eclipse-workspace/client-redis-ejemplo/src/main/java/redis/client/Application.java
